@@ -15,3 +15,28 @@ Na aplicação existem dois tipos de usuários, o administrador e o cliente do r
 - Alteração do status para pedidos realizados
 - Adicionar promoções aos pedidos
 - Verificar avaliação dos clientes e pedidos do cardápio
+
+Para exibição do usuário cliente, teremos as seguintes opções de navegação: 
+- 
+-
+-
+
+## Tecnologias
+
+### Backend
+
+- Framework Flask - Python
+- Linguagem
+    - Python
+- Banco de dados
+    - ORM Prisma com PostreeSQL
+
+### Frontend
+
+- Versão WEB
+    - React
+    - Shadcn/ui (Biblioteca de estilização)
+    - Tawindcss
+    - Linguagem typescript
+- Versão Mobile
+    - React Native
