@@ -40,3 +40,7 @@ Para exibição do usuário cliente, teremos as seguintes opções de navegaçã
     - Linguagem typescript
 - Versão Mobile
     - React Native
+
+## Conclusão
+
+Hamper é a escolha ideal para quem deseja desfrutar de refeições deliciosas no conforto de casa ou no trabalho, com a comodidade de um aplicativo moderno e eficiente. Com uma interface amigável, ampla seleção de restaurantes e funcionalidades robustas, Hamper promete transformar sua experiência de delivery de comida em algo prático, seguro e prazeroso. Baixe Hamper hoje e descubra uma nova forma de saborear o melhor da gastronomia!
