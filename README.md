@@ -36,7 +36,7 @@ Para exibição do usuário cliente, teremos as seguintes opções de navegaçã
 - Versão WEB
     - React
     - Shadcn/ui (Biblioteca de estilização)
-    - Tawindcss
+    - Tailwindcss
     - Linguagem typescript
 - Versão Mobile
     - React Native
